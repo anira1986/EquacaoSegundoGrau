@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Equação Segundo Grau</string>
+    <string name="valor_a">Valor de A</string>
+    <string name="valor_b">Valor de B</string>
+    <string name="valor_c">Valor de C</string>
+    <string name="delta">Valor de Delta = </string>
+    <string name="resultado_x1">x1 = </string>
+    <string name="resultado_x2">x2 = </string>
+    <string name="calcular">Calcular</string>
+    <string name="nao_e_segundo_grau">Não é uma equação de segundo grau</string>
+    <string name="sem_raizes_reais">A equação não possui raízes reais</string>
+</resources>
